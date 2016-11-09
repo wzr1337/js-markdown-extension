@@ -2,8 +2,8 @@
   "manifest_version": 2,
 
   "name": "GitHub Flavored Markdown",
-  "description": "Preview GitHub Flavored Markdown in Chrome",
-  "version": "0.0.5",
+  "description": "Preview GitHub Flavored Markdown in Chrome. The extension will automatically update the preview.",
+  "version": "0.0.6",
 
   "icons": {
     "128": "icons/icon.png",
